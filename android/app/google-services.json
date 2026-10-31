@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773996139405",
+    "project_id": "project-mahmoud",
+    "storage_bucket": "project-mahmoud.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773996139405:android:1505c451d474e7cb77a3c4",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIhDEX548Gk4UzIDCpMcvm9M6vavyP0G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
